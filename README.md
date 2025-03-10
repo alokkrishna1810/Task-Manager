@@ -22,12 +22,9 @@ This is a simple task manager application built with React, Redux, and Vite. It 
 ### Installation
 
 1. Clone the repository:
-
 ```sh
 git clone https://github.com/your-username/task-manager.git
-cd task-manager
 ```
-
 2. Navigate to the project directory:
    ```sh
    cd task-manager
